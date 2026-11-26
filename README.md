@@ -46,7 +46,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-bind&show_icons=true&theme=tokyonight" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-bind&show_icons=true&theme=tokyonight" height="165" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-bind&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
 </p>
